@@ -1,0 +1,233 @@
+.wp-has-submenu.toplevel_page_ra-app-dashboard div.wp-menu-image:before {
+    content: '\f112';
+}
+.toplevel_page_ra-app-dashboard .applicant .approve {
+    display: inline !important;
+}
+.toplevel_page_ra-app-dashboard .applicant .approve a {
+    color: #199707;
+}
+.toplevel_page_ra-app-dashboard .applicant .re-open a {
+    color: #4d3f82;
+}
+.toplevel_page_ra-app-dashboard .applicant .remove a {
+    color: #e84848;
+}
+.toplevel_page_ra-app-dashboard .hide {
+    display: none;
+}
+.toplevel_page_ra-app-dashboard .label-primary {
+    background-color: #337ab7;
+}
+.toplevel_page_ra-app-dashboard .label-success {
+    background-color: #5cb85c;
+}
+.toplevel_page_ra-app-dashboard .label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+/* View Application */
+.toplevel_page_ra-app-dashboard .view__wrapper {
+    display: flex;
+    align-items: stretch;
+    overflow: hidden;
+}
+.toplevel_page_ra-app-dashboard .view__left {
+    background: #d0e8f2;
+    padding: 30px;
+    width: 15%;
+}
+.toplevel_page_ra-app-dashboard .view__right {
+    width: 85%;
+}
+.toplevel_page_ra-app-dashboard .view__name {  
+    text-align: center;
+    font-size: 20px;
+}
+.toplevel_page_ra-app-dashboard address {
+    text-align: center;
+    font-size: 16px;
+}
+.toplevel_page_ra-app-dashboard .view__paymentstatus {
+    display: table;
+    text-align: center;
+    margin: 10px auto 0;
+    border-radius: 50px;
+    padding: 6px 25px;
+    text-transform: capitalize;
+    color: #333;
+    font-weight: 500;
+}
+.toplevel_page_ra-app-dashboard .view__paymentstatus--pending {
+    background: #ffc107;
+}
+.toplevel_page_ra-app-dashboard .view__phone,
+.toplevel_page_ra-app-dashboard .view__cell,
+.toplevel_page_ra-app-dashboard .view__email,
+.toplevel_page_ra-app-dashboard .view__ssnumber {
+    text-align: center;
+    margin: 6px 0;
+    font-size: 16px;
+}
+.toplevel_page_ra-app-dashboard .view__phone i,
+.toplevel_page_ra-app-dashboard .view__cell i,
+.toplevel_page_ra-app-dashboard .view__dob i,
+.toplevel_page_ra-app-dashboard .view__email i {
+    margin-right: 8px;
+    font-size: 18px;
+}
+.toplevel_page_ra-app-dashboard .view__dob {
+    text-align: center;
+    font-size: 16px;
+}
+.toplevel_page_ra-app-dashboard .info-label {
+    margin-right: 8px;
+    font-weight: 500;
+}
+.toplevel_page_ra-app-dashboard .info-holder {
+    font-size: 16px;
+    margin: 0 0 4px;
+}
+.toplevel_page_ra-app-dashboard ul.tabs {
+    display: flex;
+    margin: 0 -6px;
+    padding: 0;
+}
+.toplevel_page_ra-app-dashboard li.tabs__item {
+    background: #456268;
+    color: #fff;
+    margin: 0 6px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.toplevel_page_ra-app-dashboard .tabs li:hover {
+    background: #79a3b1;
+}
+.toplevel_page_ra-app-dashboard .tabs li.active {
+    background: #79a3b1;
+}
+.toplevel_page_ra-app-dashboard .tabs__content {
+    background: #79a3b1;
+    padding: 20px;
+    height: 100%;
+}
+.toplevel_page_ra-app-dashboard .tabs__content * {
+    color: #fff !important;
+}
+#pets img {
+    width: 100% !important;
+}
+
+.rental-app_page_ra-app-settings form table {
+    margin-bottom: 20px;
+    width: 100%;
+}
+.rental-app_page_ra-app-settings table tr td:first-child {
+    width: 30%;
+}
+.rental-app_page_ra-app-settings form table input {
+    width: 100%;
+    padding: 7px;
+}
+.rental-app_page_ra-app-settings form table select {
+    max-width: 100%;
+    width: 100%;
+    padding: 7px;
+}
+
+.toplevel_page_ra-app-dashboard table tr td {
+    font-size: 16px;
+    padding: 10px 0;
+}
+
+.toplevel_page_ra-app-dashboard .tabs__content h6 {
+    margin: 0 !important;
+    font-size: 18px !important;
+}
+
+.toplevel_page_ra-app-dashboard #additional_occupants table {
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+}
+.toplevel_page_ra-app-dashboard #additional_occupants table:last-child {
+    border: 0 none;
+}
+.toplevel_page_ra-app-dashboard #additional_occupants table tr td:first-child {
+    width: 10%;
+}
+.toplevel_page_ra-app-dashboard #additional_occupants table tr td:last-child {
+
+}
+
+.toplevel_page_ra-app-dashboard #emp_history table {
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+}
+.toplevel_page_ra-app-dashboard #emp_history table:last-child {
+    border: 0 none;
+}
+.toplevel_page_ra-app-dashboard #emp_history table tr td:first-child {
+    width: 10%;
+}
+.toplevel_page_ra-app-dashboard #emp_history table tr td:last-child {
+
+}
+
+.toplevel_page_ra-app-dashboard #pets table {
+    width: 100%;
+    padding: 10px 0;
+}
+.toplevel_page_ra-app-dashboard #pets table tr td:first-child {
+    width: 10%;
+}
+
+.toplevel_page_ra-app-dashboard #miscellaneous table {
+    width: 100%;
+    padding: 10px 0;
+}
+.toplevel_page_ra-app-dashboard #miscellaneous table tr td:first-child {
+    width: 10%;
+}
+
+.toplevel_page_ra-app-dashboard #emergency_contact table {
+    width: 100%;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+.toplevel_page_ra-app-dashboard #emergency_contact table:last-child {
+    border: 0 none;
+}
+.toplevel_page_ra-app-dashboard #emergency_contact table tr td:first-child {
+    width: 10%;
+}
+.toplevel_page_ra-app-dashboard #emergency_contact table tr td:last-child {
+
+}
+
+.toplevel_page_ra-app-dashboard .docs-wrapper {
+    display: flex;
+}
+.toplevel_page_ra-app-dashboard div#drivers_license {
+    width: 50%;
+    padding: 0 20px;
+}
+.toplevel_page_ra-app-dashboard div#proof_of_income {
+    width: 50%;
+    padding: 0 20px;
+}
+
+.docs-wrapper img {
+    width: auto !important;
+}

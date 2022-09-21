@@ -1,0 +1,48 @@
+[29-Aug-2021 13:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:48:59 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
+[29-Aug-2021 13:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
+[29-Aug-2021 13:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
+[29-Aug-2021 13:49:00 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
+[29-Aug-2021 13:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:49:01 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
+[29-Aug-2021 13:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAFormShortcode.class.php on line 2
+[29-Aug-2021 13:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'RAShortcode' not found in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bptapart/public_html/wp-content/plugins/rental-application/public/shortcodes/RAThankyouShortcode.class.php on line 2
